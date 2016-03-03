@@ -1,0 +1,2 @@
+set showmode
+syntax on
