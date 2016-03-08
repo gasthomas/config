@@ -1,4 +1,4 @@
-PS1='\d \t \W ~$ ';
+PS1='[\h] \d \t \W ~$ ';
 
 alias listvm='VboxManage list vms'
 
